@@ -77,7 +77,7 @@ pip install django==2.1.7 scikit-learn pandas numpy
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PhishingDetection.git
+   git clone https://github.com/Sucharithaa14/Phishing-Website-Detection-using-LightGBM-and-SVM-algorithms.git
    cd PhishingDetection
    ```
 2. Create and activate a virtual environment:
