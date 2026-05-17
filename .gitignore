@@ -1,0 +1,19 @@
+# Large dataset files
+Phishing/Dataset/
+
+# Large model files
+Phishing/model/X.txt.npy
+
+# Archives
+*.zip
+*.rar
+
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+
+# Docs
+SCREENS.docx
+Phishing Website Detection.docx
